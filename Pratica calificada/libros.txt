@@ -1,0 +1,4 @@
+Rayuela,Julio Cortazar,600
+Ficciones,Jorge Luis Borges,224
+Los Rios Profundos,Jose Maria Arguedas,288
+Conversacion en La Catedral,Mario Vargas Llosa,736
